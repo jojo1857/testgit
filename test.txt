@@ -1,1 +1,1 @@
-print "deploy test"
+"deploy test"
